@@ -1,0 +1,36 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "react project",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anirudhkv/new-project.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Anirudh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anirudhkv/new-project/issues"
+  },
+  "homepage": "https://github.com/Anirudhkv/new-project#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
